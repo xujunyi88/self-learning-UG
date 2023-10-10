@@ -1,5 +1,5 @@
 # self-learning-UnderGraduate
-本科自学指南
+许俊毅本科自学指南
 
 ```
 目录：
